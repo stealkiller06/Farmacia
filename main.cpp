@@ -1,3 +1,4 @@
+// 5% -> porcentaje de completado
 #include <iostream>
 #include <fstream>
 #include <string>
